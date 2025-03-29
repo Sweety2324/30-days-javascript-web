@@ -329,7 +329,7 @@ isRaining
   January has 31 days.
 
   Enter a month: JANUARY
-  January has 31 day
+  January has 31 days.
 
   Enter a month: February
   February has 28 days.
